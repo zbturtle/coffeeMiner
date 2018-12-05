@@ -1,1 +1,1 @@
-alert("if you can read this, the script has been injected. This will be the minner");
+alert("Seeing this script means the mining script has successfully been injected. Feel free to edit this alert in script.js.");
